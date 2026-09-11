@@ -2,96 +2,56 @@
 
 
 
-# [Project Name] 🎯
+# The useless button 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Lumina
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Anagha Venugopal - College of engineering Trikaripur
 
 ### Project Description
-[2-3 lines about what your project does]
+my project is useless as it says. it just tells us not to click a button but we click it anyway and have some very useless consequences
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+people are too productive on internet today,
+there is a lack of frustration in our daily lives
+Users have too much free time and nothing
+completely pointless to spend it on
+We needed to introduce a minor, gamified
+annoyance to the daily workflow
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+THE USELESS BUTTON, the solution for boredom
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML
+- CSS
 
 ### Implementation
 For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
+HTML,CSS,JS
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![](1.png)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![](2.png)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
+![](3.png)
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+# Link
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Anagha Venugopal]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
